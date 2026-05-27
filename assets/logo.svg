@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210">
+<rect width="760" height="210" rx="32" fill="#0f3d8a"/>
+<rect x="18" y="18" width="724" height="174" rx="24" fill="none" stroke="#d4af37" stroke-width="6"/>
+<text x="42" y="82" font-family="Arial" font-size="40" font-weight="800" fill="#fff">EXCEL Smart STG</text>
+<text x="44" y="124" font-family="Arial" font-size="23" font-weight="600" fill="#f9e7a4">Smart School Timetable Generator</text>
+<text x="44" y="158" font-family="Arial" font-size="16" fill="#fff" opacity="0.88">Maths n Sciences Hub (Pty) Ltd</text>
+<text x="44" y="182" font-family="Arial" font-size="13" fill="#fff" opacity="0.78">© 2026. All rights reserved.</text>
+</svg>
